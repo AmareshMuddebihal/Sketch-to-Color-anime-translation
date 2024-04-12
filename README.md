@@ -22,8 +22,7 @@ Implemented the anime sketch colorization using the reference(s) paper-1 below.
 # Installation:
 - Clone this repo:
 ```bash
-> git clone https://github.com/sanjay235/Sketch2Color-anime-translation.git
-> cd Sketch2Color-anime-translation
+> git clone 
 ```
 - Install Miniconda from https://docs.conda.io/en/latest/miniconda.html
 - Install Tensorflow and dependencies from https://www.tensorflow.org/install/
